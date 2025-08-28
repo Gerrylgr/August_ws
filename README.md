@@ -45,7 +45,7 @@
         python3 src/august_speaker/august_speaker/MeloTest.py 
         ```
 
-        若能够成功合成语音则说明依赖安装完成
+    若能够成功合成语音则说明依赖安装完成
 
 3. 安装 ollama 并拉取模型到本地：
 
