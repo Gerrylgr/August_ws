@@ -41,9 +41,9 @@
     验证是否安装成功：
     (找不到包的话请把 main 中模型的路径改为绝对路径)
 
-        ```
-        python3 src/august_speaker/august_speaker/MeloTest.py 
-        ```
+    ```
+    python3 src/august_speaker/august_speaker/MeloTest.py 
+    ```
 
     若能够成功合成语音则说明依赖安装完成
 
