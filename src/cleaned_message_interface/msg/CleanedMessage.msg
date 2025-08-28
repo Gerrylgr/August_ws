@@ -1,0 +1,2 @@
+# 用于存放处理过后的智能体回答字符串
+string cleaned_message

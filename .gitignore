@@ -1,0 +1,4 @@
+src/august_cerebra/models/sherpa-onnx-streaming-zipformer-bilingual-zh-en-2023-02-20/encoder-epoch-99-avg-1.int8.onnx
+src/august_cerebra/models/sherpa-onnx-streaming-zipformer-bilingual-zh-en-2023-02-20/encoder-epoch-99-avg-1.onnx
+src/august_cerebra/models/MeloTTS/melo/configs/checkpoint.pth
+src/august_speaker/MeloTTS/melo/configs/checkpoint.pth
